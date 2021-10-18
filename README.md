@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajathReddy9
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big Data and Business Analytics as a Master Student
+- 🌱 MSc Big Data and Business Analytics
 
 <!---
 RajathReddy9/RajathReddy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
